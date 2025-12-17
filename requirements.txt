@@ -1,29 +1,8 @@
-# Core
-streamlit==1.26.0
-rich<14,>=10.14.0
-
-# Analytics & Data
-pandas==2.3.1
-numpy==2.2.6
-scipy==1.15.3
-statsmodels==0.14.0
-scikit-learn==1.7.0
-
-# Plotting
-matplotlib==3.10.3
-plotly==5.16.0
-seaborn==0.13.2
-
-# Real-time WebSocket
-websocket-client==1.6.1
-requests==2.32.4
-
-# Utilities
-python-dateutil==2.9.0.post0
-pytz==2025.2
-joblib==1.5.1
-PyYAML==6.0.2
-
-# Optional ML (CPU only)
-tensorflow==2.20.0
-keras==3.12.0
+streamlit
+streamlit-autorefresh
+pandas
+numpy
+plotly
+websocket-client
+statsmodels
+scikit-learn
