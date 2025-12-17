@@ -43,3 +43,20 @@ The system continuously ingests live trade data, computes hedge ratios (static &
 
 ---
 
+### Deployment
+
+This project is Streamlit Community Cloud compatible.
+Deployment requirements:
+app.py as entry file
+requirements.txt
+WebSocket auto-reconnect logic included
+No local state dependencies
+
+### Trading Logic 
+
+Stream live trades via Binance WebSocket
+Align prices by timestamp
+Compute hedge ratio (static or Kalman)
+Calculate spread & Z-score
+Generate alerts based on thresholds
+Visualize & export analytics
