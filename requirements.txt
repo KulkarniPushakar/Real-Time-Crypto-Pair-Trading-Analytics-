@@ -1,0 +1,8 @@
+streamlit
+streamlit-autorefresh
+pandas
+numpy
+plotly
+websocket-client
+statsmodels
+scikit-learn
