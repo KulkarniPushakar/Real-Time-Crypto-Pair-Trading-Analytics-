@@ -50,7 +50,7 @@ Deployment requirements:
 app.py as entry file
 requirements.txt
 WebSocket auto-reconnect logic included
-No local state dependencies
+No local state dependencies. Must use python 3.10
 
 ### Trading Logic 
 
