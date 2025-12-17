@@ -1,0 +1,9 @@
+Here in building the this project I have used ChatGPT for my coding assistant to help me to get known to the new formula requied in the assignment like for Hedge Ratio, Spread, Z-Score, etc.
+
+ChatGPT helped me to make the frontend using stream lit and also helped to deploy it using stream lit Cloud.
+
+Also chatGPT helped me to understand the concepts of System Design.
+
+The coding part in python in almost done by me and also the SQLit part is done by me. ChatGPT helped me to create the Frontend quite more as it is quite lengthy.
+
+The total decisions of how to put the weights and the analytics is done by me as I am more interested it quants.ChatGPt created the frontend the way I was giving prompts.
